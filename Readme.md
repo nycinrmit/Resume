@@ -21,14 +21,14 @@ Here are many helpful guidelines about making beautiful documents like resumes t
 
 ## **Getting Started**
 
-#### *1. Prerequisites*
+### *1. Prerequisites*
 
 + The first and most important tool that you need to know if you want writing on popular and modern technical documentation tools is **GitHub Pages**. Etter says, "GitHub uses a *Distributed Version Control System* which allows people to work offline and work on the same file. Also, it can keep all versions of one file in history." So DVCS is suitable to solve problems requiring collaboration.
 + You required a basic level writing knowledge about **Markdown**. The benefits of writing on **Markdown** would be discussed later.  
 + Writing and editing codes by using a **Markdown editor** are strongly recommended.  
 + If you want your resume to be more vivid to provide a nice first impression on employers, **Jekyll** is another choice which is better than Markdown.
 
-#### *2. Installation*
+### *2. Installation*
 
 + Markdown editors are commonly used in modern technical writing  environments; they can run on mainly operating systems like Windows, Mac, and Linux. You can directly go to thier official websites to download. The best rate Markdown editors are displayed in *Resources* section.
 + Jekyll is code facing which is a little bit more difficult than Markdown, you just follow the [tutorials](https://jekyllrb.com/), copy codes and paste them step-by-step in the terminal.
