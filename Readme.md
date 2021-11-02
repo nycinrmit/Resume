@@ -57,6 +57,7 @@ title: yourname's Resume
 ```
 ![Adding Code Title](https://github.com/nycinrmit/Resume/blob/f6d3299c5db458d36142a29de4826b7ccb110c4a/Adding%20Code.gif)  
 After a few seconds, you will see fantastic appearance of your resume on <u> https://**username**.github.io</u>.  
+Here is my [Resume Demo](https://nycinrmit.github.io/Resume/).
 
 ### Resume Demo
 ![Sample Resume Demo](https://github.com/nycinrmit/Resume/blob/1ff8fa4b147fc33af319331b197b6b76771542aa/Resume%20Demo.gif)
