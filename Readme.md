@@ -80,7 +80,7 @@ Gurtej Boparai, Yucong Nie,  Tim Appleyard,  Jordan Unger, Dean Pistorius
 ## **FAQs**
 1. **Why is Markdown better than Microsoft Word?**  
 
-    To some extent, Markdown is suitable for simple situations with no special requirements on format, such as writing a blog, a README or code documents, where line spacing, headers, footers, and indentation are all meaningless, and what matters is the content. In addition, markdown is simple text, which is convenient for Git management, while Word is too heavy and inconvenient.
+    Markdown is good for simple situations with no special requirements on format. The line spacing, headers, footers, and indentation are less meaningful compared to Word. This results in markdown is simple text, which is easier to convert in other types for Git management. The word does not have such benefits.
 
 
 2. **Why is my resume not showing up?**  
