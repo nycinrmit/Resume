@@ -74,15 +74,14 @@ Group Members:
 
 
 ## **FAQs**
-1. Why is Markdown better than Microsoft Word?  
+1. **Why is Markdown better than Microsoft Word?**  
 
     To some extent, Markdown is suitable for simple situations with no special requirements on format, such as writing a blog, a README or code documents, where line spacing, headers, footers, and indentation are all meaningless, and what matters is the content. In addition, markdown is simple text, which is convenient for Git management, while Word is too heavy and inconvenient.
 
 
-2. Why is my resume not showing up?  
+2. **Why is my resume not showing up?**  
 
     Please try the following methods：
     + Correct your repository named as <u>**username**.github.io</u>
-    + Check the contents of index.md file, it should be formatted with Markdown
-    + Turn on your VPN to link your resume website if you are in some network monitoring regions  
+    + Check the contents of index.md file, is it in Markdown formattion?
     + Retry to refresh this website after a while
