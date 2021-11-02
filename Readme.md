@@ -51,15 +51,15 @@ If you finished creating new repository and editing your resume, you should clic
 
 
 ### *5. Create static site by Jekyll*
-Etter mentions, "static websites have some excellent performances, such as speed and simplicity, and are easy to migrate. If people want to create a static website, they will use a generator, like Jekyll, just provide content and theme and then it processes everything to build a website." However,  generating your resume on the web does not need all the functions of Jekyll. Clicking *Settings* in your GitHub repository, then going down and finding *GitHub Pages*. Selecting *main* branch and Clicking "*Change theme*". This could allow you control what would be shown to your future boss. Also, come back to repository and enter "*_config.yml*" file (See video below), add code
+Etter mentions, "static websites have some excellent performances, such as speed and simplicity, and are easy to migrate. If people want to create a static website, they will use a generator, like Jekyll, just provide content and theme and then it processes everything to build a website." However,  generating your resume on the web does not need all the functions of Jekyll. Clicking *Settings* in your GitHub repository, then going down and finding *GitHub Pages*. Selecting *main* branch and Clicking "*Change theme*". This could allow you control what would be shown to your future boss. Also, come back to repository and enter "*_config.yml*" file (See gif below), add code
 ```
 title: yourname's Resume
 ```
-![Rename title]()  
+![Adding Code Title](https://media.giphy.com/media/K9P218kYDWgzfLwFSn/giphy.mp4)  
 After a few seconds, you will see fantastic appearance of your resume on <u> https://**username**.github.io</u>.  
 
 ### Resume Demo
-![Sample Resume Demo]()
+![Sample Resume Demo](https://media.giphy.com/media/y9jYkYfbRjPbPyGUUU/giphy.mp4)
 
 ## **Resources**
 + [10 of the best Markdown editors](https://www.shopify.com/partners/blog/10-of-the-best-markdown-editors)
