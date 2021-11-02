@@ -39,7 +39,7 @@ Expected date of graduation: Graduated
 
 ### **<u>EXPERIENCE</u>**
 ***
-***Work***
+***Work Experience***
 
 + Convenience Store Manager    
   *Domo Gas,	Winnipeg,	MB,	Canada (October 2017	-	September 2019)*
