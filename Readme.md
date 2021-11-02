@@ -1,4 +1,4 @@
-# **Creating Your Attractive Resume on GitHub**
+# **Creating and Hosting Your Attractive Resume on GitHub**
 
 ## **List of Contents**
 + [Introduction](#introduction)
