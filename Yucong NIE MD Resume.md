@@ -21,7 +21,8 @@ Expected date of graduation: Graduated
 
 ### **<u>TECHNICAL SKILLS</u>**
 ***
-**Languages**
+**Languages**  
+	
 	Java,	
 	C,	
 	C++,
@@ -29,6 +30,7 @@ Expected date of graduation: Graduated
 	SQL
 
 **Tools**  
+	
 	IDEA,
 	Visual Studio,
 	MySQL
