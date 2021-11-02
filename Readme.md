@@ -69,7 +69,8 @@ After a few seconds, you will see fantastic appearance of your resume on <u> htt
 + [Modern Technical Writing](https://www.amazon.ca/gp/product/B01A2QL9SS/) *by Andrew Etter*
 
 ## **Authors and Acknowledgments**
-README author:  Yucong Nie
+README author:  Yucong Nie  
+
 Group Members:  
 Gurtej Boparai, Yucong Nie,  Tim Appleyard,  Jordan Unger, Dean Pistorius
 
