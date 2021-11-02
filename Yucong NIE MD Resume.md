@@ -26,6 +26,7 @@ Expected date of graduation: Graduated
 	Java,	
 	C,	
 	C++,
+	Prolog,
 	Python,	
 	SQL
 
@@ -33,6 +34,7 @@ Expected date of graduation: Graduated
 	
 	IDEA,
 	Visual Studio,
+	Processing,
 	MySQL
 
 ### **<u>EXPERIENCE</u>**
