@@ -85,8 +85,8 @@ Markdown is good for simple situations with no special requirements on format. T
 
 ### *2. Why is my resume not showing up?*     
 
-Please try the following methods：
-    + Correct your repository named as <u>**username**.github.io</u>
-    + Check the contents of index.md file, is it in Markdown formattion?
-    + Retry to refresh this website after a while
+Please try the following methods：   
++ Correct your repository named as <u>**username**.github.io</u>  
++ + Check the contents of index.md file, is it in Markdown formattion?  
++ + Retry to refresh this website after a while
 
