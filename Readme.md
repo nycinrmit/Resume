@@ -59,7 +59,7 @@ title: yourname's Resume
 After a few seconds, you will see fantastic appearance of your resume on <u> https://**username**.github.io</u>.  
 
 ### Resume Demo
-![Sample Resume Demo](https://media.giphy.com/media/y9jYkYfbRjPbPyGUUU/giphy.mp4)
+![Sample Resume Demo](https://github.com/nycinrmit/Resume/blob/1ff8fa4b147fc33af319331b197b6b76771542aa/Resume%20Demo.gif)
 
 ## **Resources**
 + [10 of the best Markdown editors](https://www.shopify.com/partners/blog/10-of-the-best-markdown-editors)
