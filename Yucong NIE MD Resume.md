@@ -44,7 +44,7 @@ Expected date of graduation: Graduated
 + Convenience Store Manager    
   *Domo Gas,	Winnipeg,	MB,	Canada (October 2017	-	September 2019)*
 
-+ Student service assistant  
++ Student Service Center Assistant  
   *RMIT University,	Melbourne,	VIC,	Australia (September 2013 - December 2015)*
 
 
