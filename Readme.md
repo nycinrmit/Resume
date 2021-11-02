@@ -40,7 +40,7 @@ Here are many helpful guidelines about making beautiful documents like resumes t
 ### *1. Create a new repository*
 Before you start, make sure that you create your own github account. After you log in, you can see a “+” sign on the top right of the screen, which is beside your profile. You can click it to open the menu and  there is a "*New repository*" to allow you to create your own GitHub Page. When you click this button then it requires you to type in your repository name. This repository name is followed by your username to automatically generate a GitHub Pages site.  
 
-### *2. Write resume in Markdown*
+### *2. Why you should write resume in Markdown*
 You should prepare a resume file in Markdown type before you start this step. According to Etter, "Markdown is the most widely used lightweight markup language by many people who may work in the IT industry all over the world. If you write your resume in Markdown, you will enjoy the benefits it brings to you, such as the cleanest syntax, limited set of features, and no defined standard." To be specific, Markdown makes everything become simpler and easier to get started. Markdown has its flavors, especially GitHub Flavored Markdown. Some helpful Markdown tutorials is provide in *Resources* section, including some common syntax in use.
  
 ### *3. Use a Markdown editor*
