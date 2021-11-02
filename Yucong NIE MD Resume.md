@@ -14,7 +14,6 @@ Major: Computer Science
 Expected date of graduation: April 2022  
 
 **Bachelor of Applied Science**  
-
 Royal Melbourne Institute Technology University (RMIT University)  
 Major: Aerospace & Aviation 
 Expected date of graduation: Graduated  
