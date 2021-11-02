@@ -55,7 +55,7 @@ Etter mentions, "static websites have some excellent performances, such as speed
 ```
 title: yourname's Resume
 ```
-![Adding Code Title](https://media.giphy.com/media/K9P218kYDWgzfLwFSn/giphy.mp4)  
+![Adding Code Title](https://github.com/nycinrmit/Resume/blob/f6d3299c5db458d36142a29de4826b7ccb110c4a/Adding%20Code.gif)  
 After a few seconds, you will see fantastic appearance of your resume on <u> https://**username**.github.io</u>.  
 
 ### Resume Demo
