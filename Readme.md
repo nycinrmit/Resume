@@ -87,6 +87,6 @@ Markdown is good for simple situations with no special requirements on format. T
 
 Please try the following methods：   
 + Correct your repository named as <u>**username**.github.io</u>  
-+ + Check the contents of index.md file, is it in Markdown formattion?  
-+ + Retry to refresh this website after a while
++ Check the contents of index.md file, is it in Markdown formattion?  
++ Retry to refresh this website after a while
 
